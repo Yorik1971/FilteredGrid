@@ -107,7 +107,7 @@ function filterTableFunc() {
 <div>
 <input type="text" id="search" onkeyup="" placeholder="Search....." ><br><br>
 
-<table id="employeeData" border="1">
+<table id="employeeData">
  <tr>
   <th>Name</th>
   <th>Email</th>
